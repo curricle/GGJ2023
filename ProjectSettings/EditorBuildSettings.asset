@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 25e9e432f710e544fb63bb9ca70bf961
+  - enabled: 1
+    path: Assets/Scenes/ModernHome.unity
+    guid: ba98455c68b3c9b4cbab2e1ca5692134
+  - enabled: 1
+    path: Assets/Scenes/Cake.unity
+    guid: 1f461a0b33ed36d4ca21e10b87ea8c7a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 818cef599ecdbd446b74eb3dc9c60556,
+      type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5933f68221e71b54298f405c5d79055f, type: 3}
+  m_Name: Fridge
+  m_EditorClassIdentifier: 
+  itemName: Refrigerator
+  itemDescription: A fridge
+  itemSprite: {fileID: 1950156387, guid: d3db4470c3cd96c458afa825f2f757e8, type: 3}
+  itemGameObject: {fileID: 4510045111054929990, guid: ec7029cc34ca91b45994f59d8c23ccce,
+    type: 3}
+  itemTransform: {fileID: 4510045111054929987, guid: ec7029cc34ca91b45994f59d8c23ccce,
+    type: 3}
+  scoreValue: 0
+  type: 7

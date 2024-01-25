@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5933f68221e71b54298f405c5d79055f, type: 3}
+  m_Name: Strawberry
+  m_EditorClassIdentifier: 
+  itemName: Strawberry
+  itemDescription: A fresh strawberry.
+  itemSprite: {fileID: 1539256529, guid: 99d6ded64b27ba043be26f75b8e9cb6a, type: 3}
+  itemGameObject: {fileID: 1229613342786072248, guid: a4cbca9978744cf43a4085784491dab7,
+    type: 3}
+  itemTransform: {fileID: 2807926461979496080, guid: a4cbca9978744cf43a4085784491dab7,
+    type: 3}
+  scoreValue: 100
+  itemID: 3
+  type: 3
